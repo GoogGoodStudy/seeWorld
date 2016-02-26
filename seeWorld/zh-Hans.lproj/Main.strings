@@ -1,0 +1,51 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "883-6A-Fx1"; */
+"883-6A-Fx1.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "观天下"; ObjectID = "8v7-18-GQP"; */
+"8v7-18-GQP.title" = "洽闻";
+
+/* Class = "UILabel"; text = "亮度"; ObjectID = "CnK-K6-Qre"; */
+"CnK-K6-Qre.text" = "亮度";
+
+/* Class = "UINavigationItem"; title = "视频精选"; ObjectID = "DLT-PF-BbW"; */
+"DLT-PF-BbW.title" = "视频精选";
+
+/* Class = "UILabel"; text = "双击关闭文章"; ObjectID = "DwH-26-bef"; */
+"DwH-26-bef.text" = "双击关闭文章";
+
+/* Class = "UINavigationItem"; title = "我的收藏"; ObjectID = "G9y-EV-AN5"; */
+"G9y-EV-AN5.title" = "我的收藏";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jwd-SW-aYo"; */
+"Jwd-SW-aYo.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "我的"; ObjectID = "NT8-fU-iAq"; */
+"NT8-fU-iAq.title" = "我的";
+
+/* Class = "UINavigationItem"; title = "我的"; ObjectID = "Rn2-5M-o3g"; */
+"Rn2-5M-o3g.title" = "我的";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "RvZ-Qf-OTK"; */
+"RvZ-Qf-OTK.text" = "Title";
+
+/* Class = "UITabBarItem"; title = "视频"; ObjectID = "W5g-5O-WwH"; */
+"W5g-5O-WwH.title" = "视频";
+
+/* Class = "UILabel"; text = "我的收藏"; ObjectID = "Zah-Bc-jhG"; */
+"Zah-Bc-jhG.text" = "我的收藏";
+
+/* Class = "UILabel"; text = "-------------------------------------------------------------------------"; ObjectID = "gk8-wW-VaA"; */
+"gk8-wW-VaA.text" = "-------------------------------------------------------------------------";
+
+/* Class = "UIBarButtonItem"; title = "我的"; ObjectID = "v3n-0s-mO9"; */
+"v3n-0s-mO9.title" = "我的";
+
+/* Class = "UILabel"; text = "夜间模式"; ObjectID = "wBe-2K-FtE"; */
+"wBe-2K-FtE.text" = "夜间模式";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wZ4-gQ-9dG"; */
+"wZ4-gQ-9dG.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "观天下"; ObjectID = "zGY-ZG-ewM"; */
+"zGY-ZG-ewM.title" = "洽闻";
